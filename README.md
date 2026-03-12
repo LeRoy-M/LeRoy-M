@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leroy!</h1>
 <h3 align="center">I'm a budding developer looking to get into Cloud Computing.</h3>
 
-<p align="left"> <a href="https://twitter.com/mzughula-leroy" target="blank"><img src="https://img.shields.io/twitter/follow/mzughula-leroy?logo=twitter&style=for-the-badge" alt="mzughula-leroy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mzughula_LeRoy" target="_blank"><img src="https://img.shields.io/twitter/follow/Mzughula-LeRoy?logo=twitter&style=for-the-badge" alt="Mzughula-LeRoy" /></a> </p>
 
 - 🔭 I’m currently working on **a Go e-commerce web scraper**
 
